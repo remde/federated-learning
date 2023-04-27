@@ -2,7 +2,7 @@
 
 This repository contains the architectural block implementations along Dockerfiles to be used for distributed federated learning experiments using containers. The `docker-compose` file in the root is an example to deploy the application, containing the expected environment variables, and running on an infrastructure with 3 worker VMs and one manager.
 
-This code has been used for the Analyzing Federated Learning in Distributed Edge Scenarios paper, which will be available here when published.
+This code has been used for my Analyzing Federated Learning in Distributed Edge Scenarios dissertation, which is available [here](https://lume.ufrgs.br/bitstream/handle/10183/240012/001142580.pdf?sequence=1&isAllowed=y). A shorter, paper version was published in WGRS (networks and services management workshop) and can be found [here](https://sol.sbc.org.br/index.php/wgrs/article/view/21484).
 
 # Running the Application
 
